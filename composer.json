@@ -1,0 +1,9 @@
+{
+  "name": "cakephp/cakephp-2.0.0",
+  "require": {
+    "cakephp/cakephp": "2.0.*"
+  },
+  "config": {
+    "vendor-dir": "Vendor/"
+  }
+}

@@ -1,0 +1,222 @@
+2023-12-22 09:19:29 Error: [MissingActionException] Action UsersController::authencation() could not be found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-12-22 09:19:47 Error: [MissingActionException] Action UsersController::authencation() could not be found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-12-22 09:45:30 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\authen.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:51:24 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:51:28 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:52:27 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:52:28 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:52:33 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:52:34 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:52:37 Error: [MissingViewException] View file "C:\xampp\htdocs\cakephp-2.0.0\app\View\Users\index.ctp" is missing.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\View\View.php(363): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(898): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(114): Controller->render()
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-12-22 09:57:31 Error: [MissingActionException] Action UsersController::authen() could not be found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-12-22 09:57:43 Error: [MissingActionException] Action UsersController::authen() could not be found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-12-22 09:58:00 Error: [MissingActionException] Action UsersController::authen() could not be found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-12-22 10:06:58 Error: [MissingTableException] Database table members for model Member was not found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(3236): Model->setSource('members')
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): AppModel->getCryptKey()
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#5 [internal function]: UsersController->login()
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2023-12-22 10:07:03 Error: [MissingTableException] Database table members for model Member was not found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(3236): Model->setSource('members')
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): AppModel->getCryptKey()
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#5 [internal function]: UsersController->login()
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2023-12-22 10:07:05 Error: [MissingTableException] Database table members for model Member was not found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(3236): Model->setSource('members')
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): AppModel->getCryptKey()
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#5 [internal function]: UsersController->login()
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2023-12-22 10:07:06 Error: [MissingTableException] Database table members for model Member was not found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(3236): Model->setSource('members')
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): Model->getDataSource()
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): AppModel->getCryptKey()
+#4 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#5 [internal function]: UsersController->login()
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2023-12-22 10:07:14 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'getCryptKey' at line 1
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(436): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('getCryptKey', Array)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(645): DboSource->execute('getCryptKey', Array, Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(587): DboSource->fetchAll('getCryptKey', Array, Array)
+#4 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): DboSource->query('getCryptKey', Array, Object(Users))
+#5 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Users->getCryptKey()
+#7 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2023-12-22 10:07:14 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'getCryptKey' at line 1
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(436): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('getCryptKey', Array)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(645): DboSource->execute('getCryptKey', Array, Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(587): DboSource->fetchAll('getCryptKey', Array, Array)
+#4 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): DboSource->query('getCryptKey', Array, Object(Users))
+#5 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Users->getCryptKey()
+#7 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2023-12-22 10:07:15 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'getCryptKey' at line 1
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(436): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('getCryptKey', Array)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(645): DboSource->execute('getCryptKey', Array, Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(587): DboSource->fetchAll('getCryptKey', Array, Array)
+#4 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): DboSource->query('getCryptKey', Array, Object(Users))
+#5 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Users->getCryptKey()
+#7 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2023-12-22 10:07:15 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'getCryptKey' at line 1
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(436): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('getCryptKey', Array)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(645): DboSource->execute('getCryptKey', Array, Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(587): DboSource->fetchAll('getCryptKey', Array, Array)
+#4 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): DboSource->query('getCryptKey', Array, Object(Users))
+#5 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Users->getCryptKey()
+#7 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2023-12-22 10:07:15 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'getCryptKey' at line 1
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(436): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('getCryptKey', Array)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(645): DboSource->execute('getCryptKey', Array, Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(587): DboSource->fetchAll('getCryptKey', Array, Array)
+#4 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): DboSource->query('getCryptKey', Array, Object(Users))
+#5 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Users->getCryptKey()
+#7 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2023-12-22 10:09:30 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'getCryptKey' at line 1
+#0 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(436): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('getCryptKey', Array)
+#2 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(645): DboSource->execute('getCryptKey', Array, Array)
+#3 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Datasource\DboSource.php(587): DboSource->fetchAll('getCryptKey', Array, Array)
+#4 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Model\Model.php(720): DboSource->query('getCryptKey', Array, Object(AppModel))
+#5 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): Model->__call('getCryptKey', Array)
+#6 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Component\AuthComponent.php(500): AppModel->getCryptKey()
+#7 C:\xampp\htdocs\cakephp-2.0.0\app\Controller\UsersController.php(37): AuthComponent->login()
+#8 [internal function]: UsersController->login()
+#9 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\cakephp-2.0.0\lib\Cake\Routing\Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#12 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2023-12-22 10:37:05 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 C:\xampp\htdocs\cakephp-2.0.0\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
